@@ -1,6 +1,6 @@
-# NaninuNene FanSite (parallax-nnnnn)
+# NaninuNene FanSite
 
-NaninuNene FanSite with parallax scroll video verification
+NaninuNene FanSite with background scroll video verification
 
 ## Install the dependencies
 ```bash
